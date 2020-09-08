@@ -1,6 +1,6 @@
-# RSP Game Book Rules
+# RPS Game Book Rules
 
-RSP stands for Rock Scissor Paper. RSP Game Books that let you play a game of Rock Scissor Paper by yourself.  
+RPS stands for Rock Scissor Paper. RPS Game Books that let you play a game of Rock Scissor Paper by yourself.  
 
 ## Why Would You Play Rock Scissor Paper By Yourself? What Is The Point? 
 
@@ -12,7 +12,7 @@ The game itself isn't intended to deep or challenging. It is probably less chall
  
 # Licenses
 
-The rules of RSP Game Books are licensed under [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) with the intent that any artist, game designer, or kid can freely make their own game books using the RSP Game Book rules, share them, sell them, or even publish them commercially without any worries. The books they make are theirs. 
+The rules of RPS Game Books are licensed under [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) with the intent that any artist, game designer, or kid can freely make their own game books using the RPS Game Book rules, share them, sell them, or even publish them commercially without any worries. The books they make are theirs. 
 
 There three restriction. 
 1) Attribution must be made (according to the licenses).
@@ -29,4 +29,4 @@ If you need further help please read the Attribution And Licensing Help document
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
 
-<a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/BootlegPotato/RSP-Game-Book" property="cc:attributionName" rel="cc:attributionURL">RSP Game Book Rules</a> by DM Larson is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/BootlegPotato/RPS-Game-Book-Rules" property="cc:attributionName" rel="cc:attributionURL">RPS Game Book Rules</a> by DM Larson is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

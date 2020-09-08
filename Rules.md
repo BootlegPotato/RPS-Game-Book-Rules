@@ -1,11 +1,11 @@
-# RSP Game Book Rules
+# RPS Game Book Rules
 
-Warning: There are a number of different name for the game that this document will call Rock Scissor Paper. Such as different combinations of the words Paper, Rock and Scissor, replacing Rock with Stone, and Ro-sham-bo. My apiologies if the *Rock Scissor Paper* version irritates the hell out of you.  
+Warning: There are a number of different name for the game that this document will call Rock Scissor Paper. Such as different combinations of the words Paper, Rock and Scissor, replacing Rock with Stone, and Ro-sham-bo. My apiologies if the *Rock Paper Scissor* version irritates the hell out of you.  
 
 ## Basic Concept
 For a more detailed explanation of Rock Scissor Paper and its history check out the [Wikipedia article](https://en.wikipedia.org/wiki/Rock_paper_scissors) on the topic but the short version is that it is a *hand game* where typically 2 players choose from one of three hand gestures and simultaneously reveal them to determine a winner. The three hand gestures are a closed fist representing *rock*, an open hand representing *paper*, and two expended fingers representing *scissors*. The each hand gestures *beats* another hand gesture. Rock beats scissors, scissors beats paper, and paper beats rocks.  
 
-The basic idea is that a RSP Game Book with a 6 sided die allows one person to play a game of Rock Scissor Paper by themselves using the following rules.
+The basic idea is that a RPS Game Book with a 6 sided die allows one person to play a game of Rock Scissor Paper by themselves using the following rules.
 
 1) The player chooses rock, scissor, or paper.
 2) Rolls the six sided die.
@@ -18,8 +18,8 @@ The basic idea is that a RSP Game Book with a 6 sided die allows one person to p
 2) The options doesn't explicitly need to be rock, scissor, and paper and it doesn't have to only be three options. For simplicity sake the examples used in these rules and how to make a game book will use rock, scissor, and paper. More complex variations will be explained later. 
 3) The book doesn't have to play just one game of Rock Scissor Paper. The examples will assume three games will be played to determine the winner (i.e. best of three). 
 
-## Parts of a RSP Game Book 
-At minium a RSP Game Book needs three types of pages, a start page, multiple game pages, and two end game pages representing winning and losing a game. In the original version of a RSP Game Book these pages are represented as two page spreads with the game rules on the left page and an illustration on the right. For clarity theses instructions will use the two page spread layout.
+## Parts of a RPS Game Book 
+At minium a RPS Game Book needs three types of pages, a start page, multiple game pages, and two end game pages representing winning and losing a game. In the original version of a RPS Game Book these pages are represented as two page spreads with the game rules on the left page and an illustration on the right. For clarity theses instructions will use the two page spread layout.
 
 **Start Game Page**: This is page represent the starting of a game of rock scissors paper before anyone has reveled what they choose in the first round. The player turns to this page to start the game. 
 

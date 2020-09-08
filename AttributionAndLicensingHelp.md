@@ -2,23 +2,23 @@
 
 The full text of the Creative Commons Attribution-ShareAlike 40 International Licenses can be found at [https://creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
-This page/document is to help those who have never worked with or don't know much about Creative Commons licenses but want to make something using the RSP Game Book Rules.
+This page/document is to help those who have never worked with or don't know much about Creative Commons licenses but want to make something using the RPS Game Book Rules.
 
-Attribution for the RSP Game Book Rules has three parts, the sentence stating how the rules are licensed, the url to the rules on GitHub, and the url to the full text of the license.
+Attribution for the RPS Game Book Rules has three parts, the sentence stating how the rules are licensed, the url to the rules on GitHub, and the url to the full text of the license.
 
 The plain text version looks like this
 ```
-RSP Game Book Rules by DM Larson is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
-Source: https://github.com/BootlegPotato/RSP-Game-Book
+RPS Game Book Rules by DM Larson is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+Source: https://github.com/BootlegPotato/RPS-Game-Book-Rules
 License: http://creativecommons.org/licenses/by-sa/4.0/  
 ```
 On a web page you can use HTML to combine the sentence with URLs as hyperlinks. It looks like this
 
-<a href="https://github.com/BootlegPotato/RSP-Game-Book">RSP Game Book Rules</a> by DM Larson is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a href="https://github.com/BootlegPotato/RPS-Game-Book-Rules">RPS Game Book Rules</a> by DM Larson is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 And the HTML code looks like this.
 ``` HTML
-<a href="https://github.com/BootlegPotato/RSP-Game-Book">RSP Game Book Rules</a> by DM Larson is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a href="https://github.com/BootlegPotato/RPS-Game-Book-Rules">RPS Game Book Rules</a> by DM Larson is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 ```
 
 # Attribution Help
